@@ -1,0 +1,6 @@
+site_name: Orchestrator
+site_description: Orchestrator documentation
+plugins:
+  - techdocs-core
+nav:
+  - Getting Started: index.md
